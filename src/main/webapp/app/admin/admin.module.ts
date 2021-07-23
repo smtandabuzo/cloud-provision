@@ -17,9 +17,10 @@ import {
   JhiHealthModalComponent,
   JhiHealthCheckComponent,
   JhiConfigurationComponent,
-  JhiDocsComponent
+  JhiDocsComponent,
+  ProvisionComponent
 } from './';
-import { ProvisionComponent } from './provision/provision.component';
+//import { ProvisionComponent } from './provision/provision.component';
 
 @NgModule({
   imports: [
